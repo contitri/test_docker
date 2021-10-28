@@ -1,1 +1,1 @@
-2 11-12 * * * python3.8 main.py >> /logfile
+2 12-13 * * * python3.8 main.py >> /logfile
